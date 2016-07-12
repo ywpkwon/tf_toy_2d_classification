@@ -8,3 +8,4 @@ This is Tensorflow implementation of an simple and educational toy classifier (2
 - Run `python train.py`
 
 * For information, I refered http://stackoverflow.com/questions/34479872/why-is-tensorflow-100x-slower-than-convnetjs-in-this-simple-nn-example
+ 
