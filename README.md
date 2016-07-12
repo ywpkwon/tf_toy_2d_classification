@@ -1,6 +1,6 @@
 # tf_toy_2d_classification
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/ywpkwon/tf_toy_2d_classification/blob/master/fig1.png)
 
 This is Tensorflow implementation of an simple and educational toy classifier (2 fully connected layers) using ConvNetJS: 
  http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
